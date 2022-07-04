@@ -145,4 +145,4 @@ console.log(arr.length = 0);
 // let number = 123232;
 // let string = 'hello'
 
-
+let lorn = 'hello git'
